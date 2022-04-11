@@ -1,0 +1,22 @@
+# H. E. A. P.
+
+---------------
+
+## Herança
+
+- Herda comportamentos da classe mãe (super classe)
+
+## Encapsulamento
+
+- Cria um efeito capsula: facil consumo de algo concentrado (no caso, regras de negócio)
+
+## Abstração
+
+- Criar uma "forma/molde" de alguma coisa do mundo real
+- Propriedades/Atributos
+- Métodos
+
+## Polimorfismo
+
+- Muitas formas para a mesma coisa
+
